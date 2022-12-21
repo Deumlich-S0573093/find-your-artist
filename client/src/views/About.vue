@@ -1,5 +1,5 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h3>This App was created as part of the Incedo backend challenge</h3>
   </div>
 </template>

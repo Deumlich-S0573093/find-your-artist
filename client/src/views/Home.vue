@@ -1,7 +1,7 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/mevn.jpg" width="350" />
-    <HelloWorld msg="Default Boilerplate Template" />
+    <img alt="FindMyArtist logo" src="../assets/mevn.png" width="150" />
+    <HelloWorld msg="Welcome to the Find my Artist App" />
   </div>
 </template>
 
