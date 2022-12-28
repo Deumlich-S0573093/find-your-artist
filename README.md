@@ -5,15 +5,25 @@ A simple Node.js REST API application that helps you find the artist you are loo
 
 This app has been created as part of the Incedo backend challange.
 
-## Installation
+## Prerequisites
 
-Install my-project with npm
+- Install npm
+
+## Run
+
+Navigate to client directory and run
 
 ```bash
-  npm install my-project
-  cd my-project
+    npm install (only once to install npm packages)
+    npm run serve
 ```
     
+## Deployed (with Render)
+
+[Find my Artist](https://find-your-artists.onrender.com)
+
+! Not able to perform API calls (no secure https connection)
+
 ## Authors
 
 - [@Deumlich-S0573093](https://www.github.com/Deumlich-S0573093)
