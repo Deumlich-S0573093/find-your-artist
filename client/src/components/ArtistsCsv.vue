@@ -39,7 +39,6 @@ export default {
         if (this.artists != "") {
           let filename = this.csv_name + ".csv";
           let text = Papa.unparse(this.artists);
-          console.log(filename);
 
           let element = document.createElement("a");
           element.setAttribute(
