@@ -21,9 +21,6 @@ export default {
   components: {
     ArtistCard,
   },
-  created() {
-    console.log(this.artists);
-  },
 };
 </script>
 
