@@ -3,8 +3,6 @@
 
 A simple Node.js REST API application that helps you find the artist you are looking for.
 
-This app has been created as part of the Incedo backend challange.
-
 ## Prerequisites
 
 - Install npm
